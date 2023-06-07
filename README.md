@@ -1,5 +1,7 @@
-# About:
-Analyzing gentrification in the Third Ward neighborhood of Houston, Texas from 2010 to 2020 using data from the <br><a href = "https://www.census.gov/programs-surveys/acs/data.html">United States Census Bureau American Community Surveys</a>.</br>
+# Introduction:
+In recent years as public and private agencies have coordinated efforts to economically revitalize the historically black Third Ward neighborhood, one of the original wards of Houston which as experienced disproportionate levels of poverty, longtime residents are faced with being displaced from their homes as they can no longer afford to live in their homes.
+
+I'll be visualizing gentrification in the Third Ward neighborhood of Houston, Texas from 2010 to 2020 using data from the <a href = "https://www.census.gov/programs-surveys/acs/data.html">`United States Census Bureau American Community Surveys`</a> by metrics of educational attainment, housing costs, income and poverty, place of birth, and population by race.
 
 # Links:
 ## 2010 Files:
